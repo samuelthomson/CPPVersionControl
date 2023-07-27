@@ -2,4 +2,6 @@
 int main()
 {
 	std::cout << "Main function\n\n";
+
+	// added comment
 }
